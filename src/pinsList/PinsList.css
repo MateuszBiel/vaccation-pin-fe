@@ -1,0 +1,9 @@
+.vacations {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 5px;
+}
+
+.main-wrapper {
+  display: flex;
+}
