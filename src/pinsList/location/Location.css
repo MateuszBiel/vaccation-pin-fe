@@ -1,0 +1,9 @@
+.place {
+  margin-bottom: 5px;
+}
+
+.place-item {
+    font-size: 20px;
+    line-height: 25px;
+    text-align: left;
+}
